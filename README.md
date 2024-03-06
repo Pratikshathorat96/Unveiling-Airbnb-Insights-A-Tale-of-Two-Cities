@@ -2,6 +2,16 @@
 
 # Unveiling Airbnb Insights: A Tale of Two Cities (Chicago &amp; New Orleans)
 
+Project By - Pratiksha Akshay Thorat.
+
+Deliverables: 
+
+Google doc link of Tableau project - https://drive.google.com/file/d/1AJyM889L4T5jLov7qpKocqsQz54UCcAP/view?usp=sharing
+
+Video Presentation Link - https://youtu.be/iOakDYMtDCg
+
+Google colab link for EDA - https://colab.research.google.com/drive/1iXMOwc74upMHc4OccSqpX9n2l3BLZt4e?usp=sharing 
+
 Problem Statement:
 
 In the context of Airbnb operations, how can the utilisation of Tableau facilitate a comprehensive comparative examination between Chicago and New Orleans, two diverse urban environments? 
