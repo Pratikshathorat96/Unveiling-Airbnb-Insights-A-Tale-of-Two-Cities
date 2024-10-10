@@ -2,6 +2,8 @@
 
 # Unveiling Airbnb Insights: A Tale of Two Cities (Chicago &amp; New Orleans)
 
+## Dashboard - https://drive.google.com/file/d/1jFpm9VpE4Fyu2lcGe8h_EZCtyhmuerrD/view?usp=sharing
+
 Project By - Pratiksha Akshay Thorat.
 
 Deliverables: 
